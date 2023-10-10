@@ -19,6 +19,7 @@ If you wish to use or reference any of the materials from this repository, you m
 - [Getting Started](#getting-started)
 - [Knowledge Share] (#whitepaper)
 - [Sizing Assessments] (worksheets)
+- Licensing
 - [Contact](#contact)
 
 ## Getting Started
@@ -32,7 +33,11 @@ If you encounter any issues or discrepancies in the documentation, please raise 
 
 ## Sizing Assessments
 
-At this time, we are not accepting public contributions to this repository. If you have suggestions or feedback, please raise an issue.
+Coming soon-  sizing assessment worksheets and instructions for SQL Server workloads for Azure and Google Cloud.
+
+## License
+
+All content in this repository is copyrighted by Silk. All rights reserved.
 
 ## Contact
 
