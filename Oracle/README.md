@@ -17,9 +17,9 @@ If you wish to use or reference any of the materials from this repository, you m
 ## Contents
 
 - [Getting Started](#getting-started)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+- [Knowledge Share](#whitepaper)
+- [Sizing Assessments](#worksheet)
+- Licensing
 - [Contact](#contact)
 
 ## Getting Started
@@ -27,13 +27,14 @@ If you wish to use or reference any of the materials from this repository, you m
 1. Navigate through the directories to find the specific documentation you're looking for.
 2. Ensure you adhere to the rights and permissions as outlined above.
 
-## Troubleshooting
+## Knowledge Share
 
 If you encounter any issues or discrepancies in the documentation, please raise an issue in the repository. 
 
-## Contributing
+## Sizing Assessments
 
-At this time, we are not accepting public contributions to this repository. If you have suggestions or feedback, please raise an issue.
+Instructions and worksheet templates in Excel format are available for download to size out Oracle database workloads to Azure environments.
+Coming soon-  Google sizing
 
 ## License
 
